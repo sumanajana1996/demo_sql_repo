@@ -1,1 +1,1 @@
-select "Sumana" as name;
+select "Sumana" as name, "sumanajana1996@gmail.com" as email;
